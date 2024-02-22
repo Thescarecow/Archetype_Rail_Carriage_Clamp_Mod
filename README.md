@@ -16,19 +16,21 @@ BOM:
 6  M2x12mm SHCS
 2  M3x45mm smooth pin or M3X45 SHCS  <- Smooth pins are prefered and you should have them from the stock build of Archetype
 
-
-
 Print settings:
-Recommend 6/6/6 with >80% infill with preferably as stiff and temperature resistance material as you have access to
+Recommend 6/6/6 with >80% infill with preferably as stiff and temperature resistance material as you have access to wtih ABS as the minimum
 Print the belt clamps with the outside face down on the bed along with the left and right rail mounts, remove the inbuilt supports after printing
 
+Assembly:
 
-Assemlty
+First Side
+-Place the belts into the recease and push the pin through from the top and feed the belt back over itself
+-Tighten the 3 M2 bolts evenly, you only need to tighen them just enough, deforming the belt clamp is a sign its too much
 
-place the belt into the recease and push the pin through from the top
+Last side
+-Place the belts into the recease and push the pin through from the top and feed the belt back over itself
+-lightly tighten this sides set of m3 bolts where it just grabs the belt
+-At this stage its possible to take the slack out of the belts and slighlty preload them, ensure you do not rack your gantry while doing this!
+-Once a suitible amount of preloading is applied, tighten as the previous side
 
+-Feed the excess belt back through the clamp to ensure a tidy setup
 
-
-Assembly is straight forward
-
-place the belt into the recease and push the pin through from the top
