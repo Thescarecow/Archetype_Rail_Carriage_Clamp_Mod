@@ -1,6 +1,8 @@
 # Archetype_Rail_Carriage_Clamp_Mod
 A User Mod to the Armchair Heavy Industries Archetype Rail Carriage mount to clamp 9mm belts directly 
 
+https://github.com/Armchair-Heavy-Industries/Archetype
+
 This replaces the universal belt clip with belt clamps that restrain the belt directly to the rail carriage itself as well as providing a excess belt loop location
 
 I personally found that the stock belt mount lacked the ability to adjusting individual belt slack as well as ensure that belt pretension slack for mods like Monolith, which has very limited tension range
@@ -17,7 +19,7 @@ BOM:
 2  M3x45mm smooth pin or M3X45 SHCS  <- Smooth pins are prefered and you should have them from the stock build of Archetype
 
 Print settings:
-Recommend 6/6/6 with >80% infill with preferably as stiff and temperature resistance material as you have access to wtih ABS as the minimum
+Recommend 6/6/6 with >80% infill with preferably as stiff and temperature resistance material as you have access to with ABS as the minimum
 Print the belt clamps with the outside face down on the bed along with the left and right rail mounts, remove the inbuilt supports after printing
 
 Assembly:
