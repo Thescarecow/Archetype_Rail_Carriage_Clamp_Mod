@@ -1,13 +1,23 @@
-# Archetype_Rail_Carriage_Clamp_Mod
-A User Mod to the Armchair Heavy Industries Archetype Rail Carriage mount to clamp 9mm belts directly 
-
-Currenlty it only supports the monolith Gantry style belt path
-
-https://github.com/CloakedWayne/Monolith_Gantry_V2-VT
-
-Standard belt path version to come soon
+# Archetype Rail Carriage Clamp Mod
 
 https://github.com/Armchair-Heavy-Industries/Archetype
+
+A User Mod to the Armchair Heavy Industries Archetype Rail Carriage mount to clamp belts directly to the Rail mounts as well as providing a excess belt loop location
+
+Works with 6mm & 9mm belts
+
+Voron Stock Belt Path 
+
+	-MGN9H
+	-MGN12H
+
+
+Monolith Belt Path
+
+	-MGN9H
+	-MGN12H
+	-MGN12H IDEX
+
 
 This replaces the universal belt clip with belt clamps that restrain the belt directly to the rail carriage itself as well as providing a excess belt loop location
 
@@ -20,19 +30,21 @@ The current version only supports MGN12H but this may expand to MGN9H in the fut
 
 
 BOM:
-6  M2 3mm x 3.6mm heat sets
-6  M2x12mm SHCS
-2  M3x45mm smooth pin or M3X45 SHCS  <- Smooth pins are prefered and you should have them from the stock build of Archetype
+6  M2  3mm x 3.6mm x 3.6mm heat sets
+4  M2x 12mm SHCS
+2  M2x 8mm  SHCS
+2  M3x 45mm smooth pin or M3X45 SHCS  <- Smooth pins are prefered and you should have them from the stock build of Archetype
 
 Print settings:
-Recommend 6/6/6 with >80% infill with preferably as stiff and temperature resistance material as you have access to with ABS as the minimum.
-Print the belt clamps with the outside face down on the bed along with the left and right rail mounts, remove the inbuilt supports after printing.
+Recommend 6/6/6 with >80% infill 
+ABS as a minimum with anything better if possible
+Classic slicer with 0.4mm nozzle
 
 Assembly:
 
 First Side
 -Place the belts into the recease and push the pin through from the top and feed the belt back over itself
--Tighten the 3 M2 bolts evenly, you only need to tighen them just enough, deforming the belt clamp is a sign its too much
+-Tighten the 3 M2 bolts evenly, you only need to tighen them just enough to restrain the belt in place, deforming the belt clamp is a sign its too much.
 
 Last side
 -Place the belts into the recess and push the pin through from the top and feed the belt back over itself
@@ -42,3 +54,4 @@ Last side
 
 -Feed the excess belt back through the clamp to ensure a tidy setup
 
+Make sure to recheck belt tension 
