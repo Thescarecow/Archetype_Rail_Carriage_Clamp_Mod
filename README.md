@@ -24,7 +24,7 @@ Monolith Belt Path
 	-MGN12H IDEX
 
 ![image](https://github.com/Thescarecow/Archetype_Rail_Carriage_Clamp_Mod/assets/148969384/5477a4ad-cc65-496d-adfc-6ceb5ca58e95)
- <img src=https://github.com/Thescarecow/Archetype_Rail_Carriage_Clamp_Mod/assets/148969384/5477a4ad-cc65-496d-adfc-6ceb5ca58e95 alt="alt text" width=300 height=300>
+ <img src=https://github.com/Thescarecow/Archetype_Rail_Carriage_Clamp_Mod/assets/148969384/5477a4ad-cc65-496d-adfc-6ceb5ca58e95 alt="alt text" width=400 height=300>
 BOM:
 6  M2  3mm x 3.6mm x 3.6mm heat sets
 4  M2x 12mm SHCS
