@@ -11,7 +11,7 @@ Belt Clamp rail mount version for the Armchair Archetype Toolhead allowing the c
 
 Works with 6mm & 9mm belts
 
-Also supports the Monolith Gantry belth path
+Also supports Archetype use with Monolith Gantry belt paths
 https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/tree/main
 
 ![Current Rail mount options](https://github.com/user-attachments/assets/68efe626-9edc-46e4-bc9e-4fac6e8b23a6)
