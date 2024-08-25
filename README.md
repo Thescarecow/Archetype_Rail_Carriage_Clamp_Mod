@@ -10,6 +10,7 @@ https://github.com/Armchair-Heavy-Industries/Archetype
 Belt Clamp rail mount version for the Armchair Archetype Toolhead allowing the clamp belts directly to the Rail mounts as well as providing a excess belt loop location
 
 Works with 6mm & 9mm belts
+
 Also supports the Monolith Gantry belth path
 https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/tree/main
 
