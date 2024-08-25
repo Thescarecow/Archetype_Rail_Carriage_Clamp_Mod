@@ -2,7 +2,7 @@
 
 https://github.com/Armchair-Heavy-Industries/Archetype
 
-A User Mod to the Armchair Heavy Industries Archetype Rail Carriage mount to clamp belts directly to the Rail mounts as well as providing a excess belt loop location
+Belt Clamp rail mount version for the Armchair Archetype Toolhead allowing the clamp belts directly to the Rail mounts as well as providing a excess belt loop location
 
 Works with 6mm & 9mm belts
 
@@ -11,6 +11,9 @@ Voron Stock Belt Path
 	-MGN9H
 	-MGN12H
 
+Also supports the Monolith Gantry belth path
+
+https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/tree/main
 
 Monolith Belt Path
 
@@ -19,15 +22,9 @@ Monolith Belt Path
 	-MGN12H IDEX
 
 
-This replaces the universal belt clip with belt clamps that restrain the belt directly to the rail carriage itself as well as providing a excess belt loop location
-
-I personally found that the stock belt mount lacked the ability to adjusting individual belt slack as well as ensure that belt pretension slack for mods like Monolith, which has very limited tension range
-
-During testing this style of belt clamp was tested up to 40kg of weight hanging from the belts with no slip occuring with the test rail carriage mount plastic failing during a shock loading of that 40kg before any belt slip was obeserved.
-
-The current version only supports MGN12H but this may expand to MGN9H in the future 
 ![image](https://github.com/Thescarecow/Archetype_Rail_Carriage_Clamp_Mod/assets/148969384/5477a4ad-cc65-496d-adfc-6ceb5ca58e95)
 
+![Current Rail mount options](https://github.com/user-attachments/assets/68efe626-9edc-46e4-bc9e-4fac6e8b23a6)
 
 BOM:
 6  M2  3mm x 3.6mm x 3.6mm heat sets
