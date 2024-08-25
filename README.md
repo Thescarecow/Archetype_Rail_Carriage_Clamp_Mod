@@ -1,6 +1,8 @@
 # Archetype Rail Carriage Clamp Mod
-
 https://github.com/Armchair-Heavy-Industries/Archetype
+
+![Current Rail mount options](https://github.com/user-attachments/assets/68efe626-9edc-46e4-bc9e-4fac6e8b23a6)
+
 
 Belt Clamp rail mount version for the Armchair Archetype Toolhead allowing the clamp belts directly to the Rail mounts as well as providing a excess belt loop location
 
@@ -24,7 +26,7 @@ Monolith Belt Path
 
 ![image](https://github.com/Thescarecow/Archetype_Rail_Carriage_Clamp_Mod/assets/148969384/5477a4ad-cc65-496d-adfc-6ceb5ca58e95)
 
-![Current Rail mount options](https://github.com/user-attachments/assets/68efe626-9edc-46e4-bc9e-4fac6e8b23a6)
+
 
 BOM:
 6  M2  3mm x 3.6mm x 3.6mm heat sets
