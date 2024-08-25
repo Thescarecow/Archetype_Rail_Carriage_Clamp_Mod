@@ -1,6 +1,6 @@
 # Archetype Rail Carriage Clamp Mod
 https://github.com/Armchair-Heavy-Industries/Archetype
-
+![image](https://github.com/Thescarecow/Archetype_Rail_Carriage_Clamp_Mod/assets/148969384/5477a4ad-cc65-496d-adfc-6ceb5ca58e95)
 ![Current Rail mount options](https://github.com/user-attachments/assets/68efe626-9edc-46e4-bc9e-4fac6e8b23a6)
 
 
@@ -22,9 +22,6 @@ Monolith Belt Path
 	-MGN9H
 	-MGN12H
 	-MGN12H IDEX
-
-
-![image](https://github.com/Thescarecow/Archetype_Rail_Carriage_Clamp_Mod/assets/148969384/5477a4ad-cc65-496d-adfc-6ceb5ca58e95)
 
 
 
